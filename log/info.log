@@ -1,0 +1,776 @@
+[2022-10-21 16:41:22.922]	debubg.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 16:41:22.937]	debubg.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+[2022-10-21 16:41:22.937]	debubg.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 16:41:35.035]	debubg.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 16:41:35.050]	debubg.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+[2022-10-21 16:41:35.050]	debubg.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 16:41:54.244]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:41:54.264]	debug.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:25
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:41:54.264]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:42:18.904]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:42:18.915]	debug.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:25
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:42:18.915]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:20.159]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:20.173]	debug.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:25
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:20.173]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:25.713]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:25.724]	debug.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:25
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:45:25.725]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:46:10.217]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:46:10.227]	debug.info	bootstrap/db_mysql.go:25	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:25
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:46:10.227]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:59:58.764]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+easyweb/bootstrap.InitLog
+	/Users/linan/program/go/study/bootstrap/zap_logger.go:29
+main.main
+	/Users/linan/program/go/study/main.go:22
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:59:58.775]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+easyweb/bootstrap.InitDb
+	/Users/linan/program/go/study/bootstrap/db_mysql.go:17
+main.main
+	/Users/linan/program/go/study/main.go:23
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 16:59:58.775]	debug.info	bootstrap/redis.go:14	redis初始化成功
+easyweb/bootstrap.InitRedis
+	/Users/linan/program/go/study/bootstrap/redis.go:14
+main.main
+	/Users/linan/program/go/study/main.go:24
+runtime.main
+	/usr/local/go/src/runtime/proc.go:250
+[2022-10-21 17:01:12.682]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:01:12.693]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:01:12.693]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:22:46.868]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:22:46.886]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:22:46.887]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:23:49.302]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:23:49.329]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:23:49.330]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:30:14.382]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:30:14.400]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:30:14.401]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:30:44.485]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-21 17:30:44.487]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-21 17:31:53.314]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:31:53.328]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:31:53.328]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:32:09.264]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-21 17:32:17.269]	debug.fatal	bootstrap/router.go:49	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-21 17:32:49.839]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:32:49.892]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:32:49.892]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:32:55.039]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-21 17:33:03.451]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-21 17:45:22.144]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:45:22.155]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:45:22.155]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:45:31.329]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-21 17:45:31.335]	debug.fatal	bootstrap/router.go:49	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-21 17:46:27.498]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-21 17:46:27.509]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-21 17:46:27.510]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-21 17:46:34.773]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-21 17:46:34.774]	debug.info	bootstrap/router.go:46	timeout	{"time": 0}
+[2022-10-21 17:46:34.774]	debug.fatal	bootstrap/router.go:50	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-22 15:40:23.477]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-22 15:40:23.632]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-22 15:40:23.632]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:20:34.826]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:20:34.893]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:20:34.894]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:21:03.066]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:21:03.069]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:21:10.055]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:21:10.105]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:21:10.105]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:30:27.306]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:30:27.314]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:30:41.437]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:30:41.450]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:30:41.450]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:31:49.617]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:31:49.623]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:31:56.271]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:31:56.290]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:31:56.290]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:33:41.287]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:33:41.290]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:33:48.864]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:33:48.890]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:33:48.890]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:46:35.619]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:46:35.622]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:46:43.088]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:46:43.107]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:46:43.107]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:47:04.041]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:47:04.043]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:56:16.502]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:56:16.546]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:56:16.546]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:56:27.230]	debug.info	api/auth.go:28	err	{"err": "Key: 'UserField.Name' Error:Field validation for 'Name' failed on the 'required' tag\nKey: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 16:56:32.258]	debug.info	api/auth.go:28	err	{"err": "Key: 'UserField.Name' Error:Field validation for 'Name' failed on the 'required' tag\nKey: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 16:56:39.855]	debug.info	api/auth.go:28	err	{"err": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 16:57:37.130]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:57:37.133]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 16:57:44.873]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 16:57:44.895]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 16:57:44.895]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 16:57:54.099]	debug.info	api/auth.go:28	err	{"err": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 16:57:58.271]	debug.info	api/auth.go:28	err	{"err": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 16:59:26.451]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 16:59:26.455]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 17:02:08.172]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 17:02:08.198]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 17:02:08.198]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 17:02:17.095]	debug.info	api/auth.go:41	err	{"err": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 17:02:17.096]	debug.info	api/auth.go:42	err	{"err": {"UserField.Password":"Password为必填字段"}}
+[2022-10-27 17:26:40.368]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 17:26:40.372]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 17:55:29.277]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 17:55:29.631]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 17:55:29.631]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 17:55:44.319]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": ""}
+[2022-10-27 17:56:06.872]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": ""}
+[2022-10-27 17:56:34.796]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": ""}
+[2022-10-27 17:57:23.260]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 17:57:23.261]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 17:57:41.853]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 17:57:41.987]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 17:57:41.987]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 17:57:53.711]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 17:58:05.089]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": "123"}
+[2022-10-27 17:58:39.865]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 17:58:39.868]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 22:01:26.198]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 22:01:26.320]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 22:01:26.320]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 22:01:39.075]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 22:01:59.930]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": "123"}
+[2022-10-27 22:02:35.516]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 22:02:35.518]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 22:02:55.386]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 22:02:55.407]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 22:02:55.407]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 22:03:03.537]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": "123"}
+[2022-10-27 22:03:20.254]	debug.info	api/auth.go:25	user	{"name": "11", "pwd": "123"}
+[2022-10-27 22:05:10.394]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 22:05:10.398]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-27 22:05:18.340]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-27 22:05:18.359]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-27 22:05:18.359]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-27 22:05:26.851]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 22:05:41.298]	debug.info	api/auth.go:25	user	{"name": "linan", "pwd": "11111"}
+[2022-10-27 22:05:52.362]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-27 22:05:52.372]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-28 11:22:36.268]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:22:36.503]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:22:36.503]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:22:45.740]	debug.info	api/auth.go:40	user	{"name": "linan", "pwd": "11111"}
+[2022-10-28 11:23:29.779]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-28 11:23:29.784]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-28 11:23:36.886]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:23:36.919]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:23:36.920]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:24:22.320]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-28 11:24:22.322]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-28 11:24:28.083]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:24:28.108]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:24:28.108]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:25:32.792]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-28 11:25:32.796]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-28 11:26:22.549]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:26:22.574]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:26:22.574]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:30:56.948]	debug.info	bootstrap/router.go:44	Shutdown Server ...
+[2022-10-28 11:30:56.962]	debug.info	bootstrap/router.go:51	Server exiting
+[2022-10-28 11:31:04.046]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:31:04.059]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:31:04.059]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:32:39.628]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 11:32:39.633]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 11:32:46.404]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:32:46.426]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:32:46.426]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:33:44.454]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 11:33:44.461]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 11:33:51.468]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:33:51.538]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:33:51.542]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:34:30.261]	debug.info	example/form.go:27	user	{"name": "linan", "pwd": "11111"}
+[2022-10-28 11:57:24.673]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 11:57:24.683]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 11:57:36.714]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:57:36.743]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:57:36.743]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 11:57:56.777]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 11:57:56.780]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 11:58:39.334]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 11:58:39.352]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 11:58:39.352]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 12:01:57.940]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 12:01:57.941]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 12:02:04.846]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 12:02:04.878]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 12:02:04.878]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 12:04:11.477]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 12:04:11.488]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 12:04:18.228]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 12:04:18.247]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 12:04:18.247]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 12:05:13.872]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 12:05:13.875]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 12:05:22.126]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 12:05:22.143]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 12:05:22.143]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:07:43.470]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 13:07:43.532]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 13:07:49.879]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:07:50.002]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:07:50.003]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:12:37.655]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 13:12:37.663]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-28 13:19:42.496]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:19:42.519]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:19:42.519]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:22:34.440]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:22:34.490]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:22:34.490]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:23:07.314]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:23:07.334]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:23:07.334]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:23:35.471]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:23:35.492]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:23:35.492]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:24:36.462]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:24:36.478]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:24:36.478]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:29:08.778]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:29:08.799]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:29:08.799]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:32:29.558]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:32:29.574]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:32:29.574]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:34:05.892]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:34:05.905]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:34:05.905]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:34:37.767]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:34:37.783]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:34:37.783]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:36:16.289]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:36:16.299]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:36:16.299]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:37:30.302]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:37:30.316]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:37:30.316]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:39:06.512]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:39:06.618]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:39:06.618]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:39:46.204]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:39:46.215]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:39:46.215]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:39:54.687]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:39:54.702]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:39:54.702]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:51:12.066]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:51:12.116]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:51:12.117]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:53:35.794]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:53:35.822]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:53:35.822]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:56:51.933]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:56:51.944]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:56:51.944]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:57:09.768]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:57:09.775]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:57:09.775]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:58:02.534]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:58:02.553]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:58:02.553]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:58:25.973]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:58:25.990]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:58:25.991]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:58:48.046]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:58:48.064]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:58:48.064]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 13:58:52.976]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 13:58:53.002]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 13:58:53.002]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 14:00:06.752]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 14:00:06.764]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 14:00:06.764]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 14:00:33.479]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 14:00:33.493]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 14:00:33.493]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 14:00:42.733]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 14:00:42.753]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 14:00:42.753]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 14:01:11.844]	debug.info	bootstrap/zap_logger.go:29	日志初始化成功
+[2022-10-28 14:01:11.863]	debug.info	bootstrap/db_mysql.go:17	数据库初始化成功.
+[2022-10-28 14:01:11.863]	debug.info	bootstrap/redis.go:14	redis初始化成功
+[2022-10-28 14:08:42.747]	debug.info	bootstrap/router.go:51	Shutdown Server ...
+[2022-10-28 14:08:42.753]	debug.info	bootstrap/router.go:58	Server exiting
+[2022-10-29 08:46:56.206]	debug.info	initialize/zap_logger.go:29	日志初始化成功
+[2022-10-29 08:46:56.212]	debug.info	initialize/db_mysql.go:17	数据库初始化成功.
+[2022-10-29 08:46:56.212]	debug.info	initialize/redis.go:14	redis初始化成功
+[2022-10-29 08:47:06.723]	debug.info	initialize/router.go:51	Shutdown Server ...
+[2022-10-29 08:47:06.725]	debug.info	initialize/router.go:58	Server exiting
+[2022-11-09 11:40:19.861]	debug.info	tag/tag.go:18	获取单个标签数据失败:	{"error": "Error 1146: Table 'study.tag' doesn't exist"}
+[2022-11-09 11:45:56.135]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 11:45:56.137]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 11:46:07.804]	debug.info	tag/tag.go:18	获取单个标签数据失败:	{"error": "record not found"}
+[2022-11-09 11:47:20.556]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 11:47:20.566]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 11:48:16.480]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 11:48:16.482]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 12:03:57.832]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 12:03:57.852]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 12:04:51.721]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 12:04:51.724]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 12:05:46.395]	debug.debug	user/user.go:17	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:06:12.762]	debug.info	user/user.go:20	data:	{"user": {"username":"linan","password":"linan432","email":"wolf430@163.com"}}
+[2022-11-09 12:06:29.863]	debug.info	user/user.go:20	data:	{"user": {"username":"linan","password":"linan432","email":"wolf430@163.com"}}
+[2022-11-09 12:06:34.980]	debug.debug	user/user.go:17	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:08:37.576]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 12:08:37.587]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 12:08:49.386]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:09:21.136]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 12:09:21.140]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 12:09:33.905]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:09:43.113]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:09:49.600]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.username' Error:Field validation for 'username' failed on the 'required' tag\nKey: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 12:11:11.048]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.username' Error:Field validation for 'username' failed on the 'required' tag\nKey: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 13:48:22.297]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 13:48:22.299]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 13:50:16.325]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 13:50:16.328]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 13:55:37.824]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.username' Error:Field validation for 'username' failed on the 'required' tag\nKey: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 13:55:57.263]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.username' Error:Field validation for 'username' failed on the 'required' tag\nKey: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 13:56:04.868]	debug.debug	user/user.go:19	用户注册接收参数错误:	{"error": "Key: 'UserRegister.email' Error:Field validation for 'email' failed on the 'email' tag"}
+[2022-11-09 13:56:13.838]	debug.info	user/user.go:26	data:	{"user": {"username":"linan","password":"linan432","email":"wolf43@153.com"}}
+[2022-11-09 14:01:22.963]	debug.debug	user/user.go:29	用户注册失败:	{"error": "注册失败，请重新尝试"}
+[2022-11-09 14:02:43.034]	debug.error	user/user.go:45	用户注册失败:
+[2022-11-09 14:02:43.035]	debug.debug	user/user.go:29	用户注册失败:	{"error": "注册失败，请重新尝试"}
+[2022-11-09 14:03:18.711]	debug.debug	user/user.go:36	用户注册成功:	{"uid": 0}
+[2022-11-09 14:08:11.211]	debug.fatal	initialize/router.go:51	listen:	{"error": "listen tcp :8080: bind: address already in use"}
+[2022-11-09 14:08:27.383]	debug.error	user/user.go:49	用户注册失败	{"error": "Error 1054: Unknown column 'user_name' in 'field list'"}
+[2022-11-09 14:08:27.384]	debug.debug	user/user.go:29	用户注册失败:	{"error": "注册失败，请重新尝试"}
+[2022-11-09 14:09:11.734]	debug.debug	user/user.go:36	用户注册成功:	{"uid": 1}
+[2022-11-09 14:09:22.606]	debug.debug	user/user.go:29	用户注册失败:	{"error": "用户已注册，不可以重复注册"}
+[2022-11-09 14:09:28.236]	debug.debug	user/user.go:29	用户注册失败:	{"error": "用户已注册，不可以重复注册"}
+[2022-11-09 14:09:58.892]	debug.debug	user/user.go:29	用户注册失败:	{"error": "用户已注册，不可以重复注册"}
+[2022-11-09 14:15:20.945]	debug.debug	user/user.go:36	用户注册成功:	{"uid": "linan"}
+[2022-11-09 14:16:02.539]	debug.debug	user/user.go:36	用户注册成功:	{"info": {"username":"linan","email":"wolf43@153.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ3ZWIiLCJleHAiOjE2NjgwMTc3NjIsIm5iZiI6MTY2Nzk3MzU2MiwianRpIjoiXHUwMDAzIn0.A0Za_aKQuZCJTtArwNB47efke6Sem1GL2EdDf7l8-mY"}}
+[2022-11-09 14:17:09.630]	debug.debug	user/user.go:29	用户注册失败:	{"error": "用户已注册，不可以重复注册"}
+[2022-11-09 14:17:21.198]	debug.debug	user/user.go:36	用户注册成功:	{"info": {"uid":4,"username":"wolf","email":"wolf43@153.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ3ZWIiLCJleHAiOjE2NjgwMTc4NDEsIm5iZiI6MTY2Nzk3MzY0MSwianRpIjoiXHUwMDA0In0.9ET9wV-ZBQYJSvEv8OMJCwuAbhkNVkiMKP6_DJQD8P4"}}
+[2022-11-09 14:35:55.777]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:36:31.628]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-09 14:36:36.841]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-09 14:36:50.571]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:38:30.843]	debug.debug	middleware/jwt.go:47	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:38:30.844]	debug.debug	middleware/jwt.go:48	token解析成功	{"id=": 0}
+[2022-11-09 14:39:07.564]	debug.debug	middleware/jwt.go:47	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:39:07.565]	debug.debug	middleware/jwt.go:48	token解析成功	{"id=": 0}
+[2022-11-09 14:39:35.304]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:39:35.304]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:41:41.282]	debug.debug	jwt/jwt.go:22	getuid	{"uid": "\u0004"}
+[2022-11-09 14:44:39.178]	debug.debug	user/user.go:21	uid	{"uid": 4}
+[2022-11-09 14:44:39.179]	debug.debug	jwt/jwt.go:22	getuid	{"uid": "\u0004"}
+[2022-11-09 14:44:39.179]	debug.debug	user/user.go:21	uid	{"uid": 4}
+[2022-11-09 14:46:38.000]	debug.debug	user/user.go:23	uid	{"uid": "4"}
+[2022-11-09 14:46:38.000]	debug.debug	jwt/jwt.go:22	getuid	{"uid": "4"}
+[2022-11-09 14:46:38.001]	debug.debug	user/user.go:23	uid	{"uid": "4"}
+[2022-11-09 14:47:51.147]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:47:51.147]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:48:24.302]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:48:24.303]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:48:29.351]	debug.debug	middleware/jwt.go:45	token解析成功	{"id=": "\u0004"}
+[2022-11-09 14:48:29.351]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:52:26.919]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:52:26.920]	debug.debug	tag/manage.go:22	uid	{"uid": "\u0004"}
+[2022-11-09 14:54:33.006]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:54:33.006]	debug.debug	tag/manage.go:24	uid	{"uid": 0}
+[2022-11-09 14:55:56.135]	debug.debug	middleware/jwt.go:44	设置uid	{"uid": "\u0004"}
+[2022-11-09 14:55:56.137]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:55:56.138]	debug.debug	tag/manage.go:24	uid	{"uid": 0}
+[2022-11-09 14:57:19.591]	debug.debug	middleware/jwt.go:44	设置uid	{"uid": "\u0004"}
+[2022-11-09 14:57:19.592]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:57:19.592]	debug.debug	tag/manage.go:24	uid	{"uid": 0}
+[2022-11-09 14:58:31.885]	debug.debug	middleware/jwt.go:44	设置uid	{"uid": "\u0004"}
+[2022-11-09 14:58:31.888]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 14:58:31.889]	debug.debug	tag/manage.go:24	uid	{"uid": 0}
+[2022-11-09 15:07:26.217]	debug.debug	middleware/jwt.go:44	设置uid	{"uid": "\u0004"}
+[2022-11-09 15:07:26.217]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1668018568,"nbf":1667974368,"jti":"\u0004"}}
+[2022-11-09 15:07:26.218]	debug.debug	tag/manage.go:24	uid	{"uid": 0}
+[2022-11-09 15:08:26.469]	debug.debug	jwt/jwt.go:22	设置uid	{"uid": "23"}
+[2022-11-09 15:08:39.682]	debug.debug	middleware/jwt.go:44	设置gin的uid	{"uid": "23"}
+[2022-11-09 15:08:39.683]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1667977826,"nbf":1667976706,"jti":"23"}}
+[2022-11-09 15:08:39.683]	debug.debug	tag/manage.go:24	uid	{"uid": 23}
+[2022-11-09 15:09:18.362]	debug.debug	middleware/jwt.go:44	设置gin的uid	{"uid": "4"}
+[2022-11-09 15:09:18.371]	debug.debug	middleware/jwt.go:46	token解析成功	{"claims": {"iss":"web","exp":1667977868,"nbf":1667976748,"jti":"4"}}
+[2022-11-09 15:09:18.372]	debug.debug	tag/manage.go:24	uid	{"uid": 4}
+[2022-11-09 15:10:38.074]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1667977868,"nbf":1667976748,"jti":"4"}}
+[2022-11-09 15:10:38.082]	debug.debug	tag/manage.go:22	uid	{"uid": 0}
+[2022-11-09 15:10:45.644]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1667977868,"nbf":1667976748,"jti":"4"}}
+[2022-11-09 15:10:45.645]	debug.debug	tag/manage.go:22	uid	{"uid": 0}
+[2022-11-09 15:11:10.854]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 2.854702s"}
+[2022-11-09 15:11:32.333]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 24.333402s"}
+[2022-11-09 15:11:53.881]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-09 15:11:53.885]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-09 15:18:03.761]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 6m55.760864s"}
+[2022-11-09 15:18:19.744]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:18:19.744]	debug.debug	tag/manage.go:24	uid	{"uid": 4}
+[2022-11-09 15:18:26.374]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:18:26.374]	debug.debug	tag/manage.go:24	uid	{"uid": 4}
+[2022-11-09 15:19:25.029]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:19:25.030]	debug.debug	tag/manage.go:24	uid	{"uid": 4}
+[2022-11-09 15:19:25.030]	debug.debug	tag/manage.go:25	uid	{"uid": 0}
+[2022-11-09 15:20:30.585]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:20:30.589]	debug.debug	tag/manage.go:25	uid	{"uid": 4}
+[2022-11-09 15:20:30.589]	debug.debug	tag/manage.go:26	uid	{"uid": 0}
+[2022-11-09 15:20:49.242]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:20:49.243]	debug.debug	tag/manage.go:25	uid	{"uid": 4}
+[2022-11-09 15:20:49.243]	debug.debug	tag/manage.go:26	uid	{"uid": 999}
+[2022-11-09 15:20:53.237]	debug.debug	middleware/jwt.go:45	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:20:53.237]	debug.debug	tag/manage.go:25	uid	{"uid": 4}
+[2022-11-09 15:20:53.237]	debug.debug	tag/manage.go:26	uid	{"uid": 999}
+[2022-11-09 15:25:45.762]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-09 15:25:52.060]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:26:38.275]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:33:07.472]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:33:25.992]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:33:52.815]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:37:01.940]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:37:06.143]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:37:09.581]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 15:37:17.297]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 16:26:33.737]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 16:26:42.886]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 16:32:34.332]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668021491,"nbf":1667977291,"jti":"4"}}
+[2022-11-09 17:24:26.456]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-10 17:45:19.473]	debug.info	tag/tag.go:17	获取单个标签数据失败:	{"error": "record not found"}
+[2022-11-10 17:45:24.778]	debug.info	tag/tag.go:17	获取单个标签数据失败:	{"error": "record not found"}
+[2022-11-10 17:45:27.181]	debug.info	tag/tag.go:17	获取单个标签数据失败:	{"error": "record not found"}
+[2022-11-10 18:07:56.845]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-10 18:07:56.848]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-11 14:55:27.260]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 35h37m16.260447s"}
+[2022-11-11 14:55:52.513]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:26.567]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:50.354]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:52.931]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:54.561]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:56.359]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:57.813]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:00:59.590]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:08:21.079]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-11 15:08:39.712]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:08:52.484]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:09:18.722]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:09:27.521]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:10:20.110]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:10:28.418]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:10:33.250]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:10:33.250]	debug.warn	tag/manage.go:34	标签删除方法,id转换失败	{"error": "strconv.Atoi: parsing \"6a\": invalid syntax"}
+[2022-11-11 15:10:53.877]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:11:00.895]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:11:00.896]	debug.warn	tag/manage.go:34	标签删除方法,id转换失败	{"error": "strconv.Atoi: parsing \"\\\"6\\\"\": invalid syntax"}
+[2022-11-11 15:28:35.499]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:28:54.779]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:29:44.378]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:30:34.700]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:31:02.888]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:34:43.778]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:34:47.588]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:34:55.907]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:40:21.004]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:40:25.266]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:42:44.414]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:42:51.567]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:43:35.751]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:43:40.885]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:43:40.886]	debug.warn	tag/manage.go:65	tag-Update,修改失败	{"error": "record not found"}
+[2022-11-11 15:43:45.903]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:43:45.904]	debug.warn	tag/manage.go:65	tag-Update,修改失败	{"error": "record not found"}
+[2022-11-11 15:44:14.899]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:45:37.946]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:45:37.952]	debug.warn	tag/manage.go:65	tag-Update,修改失败	{"error": "unsupported data type: map[tname:go]: Table not set, please set it like: db.Model(&user) or db.Table(\"users\")"}
+[2022-11-11 15:46:01.595]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:46:01.596]	debug.warn	tag/manage.go:65	tag-Update,修改失败	{"error": "unsupported data type: map[tname:php]: Table not set, please set it like: db.Model(&user) or db.Table(\"users\")"}
+[2022-11-11 15:47:04.590]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:04.599]	debug.warn	tag/manage.go:65	tag-Update,修改失败	{"error": "unsupported data type: map[tname:php]: Table not set, please set it like: db.Model(&user) or db.Table(\"users\")"}
+[2022-11-11 15:47:10.496]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:15.083]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:17.983]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:35.380]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:45.932]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:47:53.975]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:49:49.612]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 15:49:54.509]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668192937,"nbf":1668148737,"jti":"4"}}
+[2022-11-11 16:30:50.911]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-11 16:30:50.913]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-16 09:50:01.205]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:55:26.241]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:55:30.228]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:55:33.857]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:55:52.969]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:57:07.062]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:57:09.905]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:57:12.322]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:59:03.142]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:59:07.192]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:59:45.025]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 09:59:49.052]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:00:58.334]	debug.debug	user/user.go:42	用户注册失败:	{"error": "用户已注册，不可以重复注册"}
+[2022-11-16 10:12:56.466]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:13:01.562]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:13:59.349]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:14:08.502]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:14:10.907]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:14:12.818]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:16:07.079]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:17:42.325]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:18:05.154]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:27:39.829]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:27:39.859]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:27:39.880]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:32:28.997]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:33:34.127]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:34:04.878]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:34:04.879]	debug.warn	link/manage.go:14	
+[2022-11-16 10:34:42.592]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:35:00.718]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:35:52.601]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 10:55:05.722]	debug.info	category/category.go:14	1
+[2022-11-16 10:55:05.785]	debug.warn	category/category.go:28	category-getinfo:获取分类数据失败	{"error": "分类不存在", "id": 1}
+[2022-11-16 10:55:41.908]	debug.info	category/category.go:14	1
+[2022-11-16 10:55:41.963]	debug.warn	category/category.go:28	category-getinfo:获取分类数据失败	{"error": "分类不存在", "id": 1}
+[2022-11-16 10:57:54.066]	debug.info	category/category.go:14	1
+[2022-11-16 10:57:54.078]	debug.warn	category/category.go:28	category-getinfo:获取分类数据失败	{"error": "分类不存在", "id": 1}
+[2022-11-16 10:58:26.735]	debug.info	category/category.go:14	1
+[2022-11-16 10:58:26.750]	debug.warn	category/category.go:28	category-getinfo:获取分类数据失败	{"error": "分类不存在", "id": 1}
+[2022-11-16 10:58:49.135]	debug.info	category/category.go:14	1
+[2022-11-16 10:58:49.151]	debug.warn	category/category.go:28	category-getinfo:获取分类数据失败	{"error": "分类不存在", "id": 1}
+[2022-11-16 10:59:11.329]	debug.info	category/category.go:14	1
+[2022-11-16 11:55:29.016]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:57:29.042]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:57:29.051]	debug.warn	category/manage.go:14	
+[2022-11-16 11:57:44.501]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:57:44.502]	debug.warn	category/manage.go:14	
+[2022-11-16 11:57:51.796]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:57:51.797]	debug.warn	category/manage.go:14	
+[2022-11-16 11:58:39.811]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:58:46.747]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 11:58:46.747]	debug.warn	category/manage.go:14	
+[2022-11-16 12:00:06.706]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:00:06.710]	debug.warn	category/manage.go:14	
+[2022-11-16 12:00:06.710]	debug.debug	validator/validatorMessage.go:24	GetErrorMsg	{"key": "name.required"}
+[2022-11-16 12:00:41.623]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:00:41.624]	debug.warn	category/manage.go:14	
+[2022-11-16 12:00:41.624]	debug.debug	validator/validatorMessage.go:24	GetErrorMsg	{"key": "name.required"}
+[2022-11-16 12:01:13.193]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:01:13.195]	debug.warn	category/manage.go:14	
+[2022-11-16 12:01:22.159]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:01:22.160]	debug.warn	category/manage.go:14	
+[2022-11-16 12:01:22.160]	debug.debug	validator/validatorMessage.go:30	GetErrorMsg,key没找到	{"key": "name.required"}
+[2022-11-16 12:01:40.620]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:01:40.621]	debug.warn	category/manage.go:14	
+[2022-11-16 12:02:17.165]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 12:02:17.176]	debug.warn	category/manage.go:14	
+[2022-11-16 12:02:28.393]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:01:18.152]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:01:53.108]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:01:56.862]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:03:13.512]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:03:17.509]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:03:19.750]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:05:53.949]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:18.590]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:20.610]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:23.841]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:27.196]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:38.252]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:06:38.252]	debug.debug	category/manage.go:37	category-api-delete,id参数转换格式失败	{"error": "strconv.Atoi: parsing \"3a\": invalid syntax"}
+[2022-11-16 15:06:54.842]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:07:08.930]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:11:16.155]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:12:34.794]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:12:34.813]	debug.error	category/serviceCategory.go:44	service-category-update	{"error": "Error 1054: Unknown column 'cname=?' in 'field list'"}
+[2022-11-16 15:13:44.512]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:13:54.551]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 15:24:20.124]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 16:31:09.999]	debug.warn	link/serviceLink.go:57	serviceCategory-GetInfo,获取数据失败	{"error": "Error 1054: Unknown column 'link.zand' in 'field list'"}
+[2022-11-16 16:31:10.000]	debug.error	link/link.go:26	link-GetInfo	{"error": "获取失败"}
+[2022-11-16 17:11:03.595]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:44:02.890]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:47:39.397]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:47:43.286]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:48:16.688]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:51:14.397]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:51:34.922]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:51:40.068]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:52:27.102]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:52:38.344]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:52:46.803]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:59:13.505]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:59:13.661]	debug.warn	link/serviceLink.go:31	serviceLink-Create,添加失败	{"error": "Error 1146: Table 'go_link.request_link_adds' doesn't exist"}
+[2022-11-16 17:59:33.183]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 17:59:33.190]	debug.warn	link/serviceLink.go:31	serviceLink-Create,添加失败	{"error": "Error 1146: Table 'go_link.request_link_adds' doesn't exist"}
+[2022-11-16 17:59:40.033]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:35:35.911]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:38:49.457]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:38:49.505]	debug.warn	link/serviceLink.go:38	serviceLink-Create,添加失败	{"error": "Error 1054: Unknown column '链接地址' in 'field list'"}
+[2022-11-16 21:39:18.828]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:39:18.829]	debug.warn	link/serviceLink.go:38	serviceLink-Create,添加失败	{"error": "Error 1054: Unknown column '链接地址' in 'field list'"}
+[2022-11-16 21:39:27.326]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:49:04.201]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668606564,"nbf":1668562364,"jti":"4"}}
+[2022-11-16 21:50:35.002]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 1m11.002364s"}
+[2022-11-16 21:51:17.291]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 21:51:37.396]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 21:52:01.568]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 21:52:54.561]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 21:53:14.225]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:06:35.527]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:06:40.914]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:07:19.258]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:08:14.619]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:08:55.996]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:12:10.914]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:20:16.060]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:23:07.477]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:23:23.684]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:27:04.380]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:27:47.120]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:28:16.853]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:28:56.660]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:30:45.005]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:31:09.686]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:31:57.937]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:32:14.918]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:32:19.514]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:32:49.484]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:33:07.909]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:04.090]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:12.006]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:21.292]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:26.611]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:34.754]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:34:41.757]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:38:48.418]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:40:50.703]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:41:13.277]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:41:59.972]	debug.debug	middleware/jwt.go:43	token解析成功	{"claims": {"iss":"web","exp":1668649850,"nbf":1668605650,"jti":"3"}}
+[2022-11-16 22:48:38.033]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-16 22:48:38.035]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-17 10:03:38.587]	debug.error	link/link.go:26	link-GetInfo	{"error": "链接不存在"}
+[2022-11-17 11:20:02.925]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-17 11:20:02.935]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-17 11:37:15.508]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-17 11:45:39.473]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-17 11:45:39.492]	debug.info	initialize/router.go:66	Server exiting
+[2022-11-18 15:01:37.059]	debug.warn	link/serviceLink.go:121	catelist	{"ca": null}
+[2022-11-18 15:04:10.948]	debug.warn	link/serviceLink.go:121	catelist	{"ca": []}
+[2022-11-18 15:04:55.922]	debug.warn	link/serviceLink.go:121	catelist	{"ca": null}
+[2022-11-18 15:09:02.602]	debug.warn	link/serviceLink.go:127		{"cid": [0, 3]}
+[2022-11-18 15:13:22.838]	debug.warn	link/serviceLink.go:127		{"cid": [0, 3]}
+[2022-11-18 15:14:18.114]	debug.warn	link/serviceLink.go:124		{"cid": [0]}
+[2022-11-18 15:14:18.115]	debug.warn	link/serviceLink.go:128		{"cid": [0, 3]}
+[2022-11-18 15:20:40.618]	debug.info	initialize/router.go:59	Shutdown Server ...
+[2022-11-18 16:12:03.843]	debug.debug	tag/ServiceTagRelation.go:48	SearchMultiIdByName返回为空	{"tids": []}
+[2022-11-18 16:12:34.123]	debug.debug	tag/ServiceTagRelation.go:48	SearchMultiIdByName返回为空	{"tids": []}
+[2022-11-18 16:13:56.561]	debug.debug	tag/ServiceTagRelation.go:48	SearchMultiIdByName返回为空	{"tids": []}
+[2022-11-18 16:16:13.558]	debug.debug	tag/ServiceTagRelation.go:51	GetLinkIdByTagName	{"ids": [1]}
+[2022-11-18 16:16:20.253]	debug.debug	tag/ServiceTagRelation.go:51	GetLinkIdByTagName	{"ids": [1, 3]}
+[2022-11-18 16:41:02.177]	debug.info	initialize/router.go:60	Shutdown Server ...

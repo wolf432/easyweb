@@ -1,0 +1,22 @@
+[2022-10-21 17:32:17.269]	debug.fatal	bootstrap/router.go:49	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-21 17:45:31.335]	debug.fatal	bootstrap/router.go:49	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-21 17:46:34.774]	debug.fatal	bootstrap/router.go:50	Server Shutdown:	{"error": "context deadline exceeded"}
+[2022-10-27 17:57:53.711]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 22:01:39.075]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-10-27 22:05:26.851]	debug.error	api/auth.go:22		{"error": "Key: 'UserField.Password' Error:Field validation for 'Password' failed on the 'required' tag"}
+[2022-11-09 14:02:43.034]	debug.error	user/user.go:45	用户注册失败:
+[2022-11-09 14:08:11.211]	debug.fatal	initialize/router.go:51	listen:	{"error": "listen tcp :8080: bind: address already in use"}
+[2022-11-09 14:08:27.383]	debug.error	user/user.go:49	用户注册失败	{"error": "Error 1054: Unknown column 'user_name' in 'field list'"}
+[2022-11-09 14:36:31.628]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-09 14:36:36.841]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-09 15:11:10.854]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 2.854702s"}
+[2022-11-09 15:11:32.333]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 24.333402s"}
+[2022-11-09 15:18:03.761]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 6m55.760864s"}
+[2022-11-09 15:25:45.762]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-11 14:55:27.260]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 35h37m16.260447s"}
+[2022-11-11 15:08:21.079]	debug.error	middleware/jwt.go:15	读取不到认证的token数据
+[2022-11-16 15:12:34.813]	debug.error	category/serviceCategory.go:44	service-category-update	{"error": "Error 1054: Unknown column 'cname=?' in 'field list'"}
+[2022-11-16 16:31:10.000]	debug.error	link/link.go:26	link-GetInfo	{"error": "获取失败"}
+[2022-11-16 21:50:35.002]	debug.error	middleware/jwt.go:26	token解析失败	{"err": "token is expired by 1m11.002364s"}
+[2022-11-17 10:03:38.587]	debug.error	link/link.go:26	link-GetInfo	{"error": "链接不存在"}
+[2022-11-17 11:37:15.508]	debug.error	middleware/jwt.go:15	读取不到认证的token数据

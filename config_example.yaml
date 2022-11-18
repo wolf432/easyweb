@@ -1,0 +1,30 @@
+app:
+  env: dev
+  port: 8080
+mysql:
+  path: 127.0.0.1
+  port: "3306"
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: link
+  username: root
+  password: 111111
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: info
+  log-zap: false
+redis:
+  db: 0
+  addr: 127.0.0.1:6379
+  password: ""
+zap:
+  level: debug
+  format: console
+  director: log
+  encode-level: LowercaseColorLevelEncoder
+  stacktrace-key: stacktrace
+  max-age: 0
+  show-line: true
+  log-in-console: true
+jwt:
+  secret: 3Bde3BGEb332asry8j44H17fRmTmqE7M3405Lwj95ur44Krrkb44TJ4s
+  jwt_ttl: 43200
